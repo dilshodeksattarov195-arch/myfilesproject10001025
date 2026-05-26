@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervarse",
+        "uuid": 431525,
+        "checksum": "fekobu"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
